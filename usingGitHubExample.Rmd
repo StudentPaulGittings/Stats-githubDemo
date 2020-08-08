@@ -1,6 +1,6 @@
 ---
 title: "Finding correlations in the newStarwars dataset"
-author: "Kirsty Kitto"
+author: "Paul Gittings"
 output:
   html_document: default
   html_notebook: default
